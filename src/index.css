@@ -13,8 +13,9 @@ body,
   min-height: 100%;
 }
 
+/*background clr */
 body {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Cormorant Garamond', serif;  
   background: #030303;
   color: white;
 }
